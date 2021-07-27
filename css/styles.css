@@ -301,3 +301,17 @@ margin-left: 10px;
         font-size: 14.7rem;
     }
 }
+/* Media */
+.media{
+    display: flex;
+    
+}
+.media_title{
+    margin-top: 0;
+}
+.media__body{
+    margin: 0 2rem;
+}
+.media__image{
+    margin-top: 1rem;
+}
